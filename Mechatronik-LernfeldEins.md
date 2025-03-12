@@ -2,6 +2,7 @@
 // Der Kurs wird in drei Blöcke geteilt. **Jeder Block soll individuell verfügbar sein bzw. über einen separaten Link zu Beginn des neuen Blocks.**
 // Die SuS bearbeiten die Aufgaben individuell in Ihrem Tempo.
 // Die "Schnellen" tun sich am Ende einer Einheit zu einer Leistungsermittlung zusammen
+// als Escape-Room gestalten (genially) und erreichtes Level bestimmt Note?
 
 Tutorial:
 https://www.twillo.de/edu-sharing/components/render/818f2dd5-b67e-41e2-baa4-dacfe4d1edac?childobject_id=0d6fecfa-5105-4f82-a725-8e027e02d8ec
@@ -28,25 +29,103 @@ UE	Inhalte
 
 
 # Technische Berechnungen
-Beispiel: Arbeitstag in einer Werkstatt/ Fabrik
-- Was fallen für Aufgaben an? Aufstellflächen und Volumen, Einheitenvorsätze, Formeln, Kran (Hubarbeit, Flaschenzug), Gabelstapler, Beleuchtung--> Strompreise, Geschwindigkeiten von Förderbänder --> als Escape-Room gestalten (genially) und erreichtes Level bestimmt Note?
-- Darstellung von Kräften --> als Reel, Podcast
-- Gegenüberstellung "Arbeit" (Joule, Wattsekunde, Newtonmeter) und "Leistung"
 
-Stundenplanung
-UE	Inhalte
-1+2	
-3+4	
-5+6	Leistungsermittlung
-7+8	Auswertung und Vertiefung/Übung
+## Infos zu dieser Einheit
+
+**Themen:** Beispiel: Arbeitstag in einer Werkstatt/ Fabrik
+
+**Stundenplanung:** Wir arbeiten acht Unterrichtseinheiten (UE) an diesem Themenkomplex. Die Leistungsermittlung erfolgt etwa in der sechsten UE. Anschließend werten wir diese aus und vertiefen unser Wissen weiter.
+
+## Ein Arbeitstag in der Werkstatt
+
+**AUFGABE**
+
+Stellen Sie per Brainstorming eine Auswahl von mindestens sechs Maschinen zusammen, die Sie in einer Werkstatt finden.
+
+### Berechnungen zur Bearbeitungsstation
+
+Aufstellflächen und Volumen, Einheitenvorsätze, Formeln, Roboter (Hubarbeit, Flaschenzug), Gabelstapler, Beleuchtung--> Strompreise, Geschwindigkeiten von Förderbänder
+
+## Wiederholung physikalischer Grundlagen
+
+### Kraft und deren Darstellung
+
+- F=m∙a=[N=(kg∙m)/s^2 ], Erdbeschleunigung g = 9,81 m/s²
+- 1 N = 100 g = 1 Tafel Schokolade!, 10 N = 1 kg, 1.000 N = 100 kg
+- Kräfte können als Pfeil (Vektor) dargestellt werden
+    + Pfeillänge: Größe der Kraft (!Kräftemaßstab nötig!)
+    + Pfeilspitze: Richtung der Kraft
+    + Pfeilrichtung: Wirkungslinie vom Angriffspunkt aus
+- Bsp: Zugkraft F = 1200 N wirkt im Winkel von 45° nach links unten
+- ! Kraftpfeile mit derselben Wirkungslinie können addiert werden!
+- Bsp: Waagerechte Zugkraft F1 = 300 N und F2 = 400 N, Druckkraft F3 = 700 N
+- (!Zusammensetzen von Kräften!)
+
+### Drehmoment
+
+- Greifen an einem Hebel Kräfte an, resultiert ein Drehmoment
+- M=F∙l=[Nm]
+- Einfluss:
+    + Größe der Kraft
+    + Länge des Hebels
+- Goldene Regel der Mechanik: Was an Kraft gespart wird, muss an Weg zugesetzt werden.
+- Bsp: Hebelgesetz
+
+### Arbeit
+
+| Mechanisch | Elektrisch |
+|------------|------------|
+| "Legt ein Körper unter der Einwirkung einer Kraft einen Weg zurück, so wird mechanische Arbeit verrichtet." | "Wird über eine bestimmte Zeit eine elektrische Leistung verbraucht, so wird elektrische Arbeit verrichtet." |
+| W = F * s  | W = P * t |
+
+Einheiten für die Arbeit: [Nm = J (Joule) = Ws]
+
+Anwendung: Elektromotor und Generator
+
+(Ergänzung: Energie Ist die Fähigkeit, Arbeit zu verrichten, während Arbeit der Prozess ist, bei dem Energie übertragen oder umgewandelt wird.)
+
+Übung:R+P S.104, A4, A5
+
+### Leistung
+
+Leistung ist die verrichtete Arbeit pro Zeiteinheit. Je schneller die Arbeit verrichtet wird, desto höher ist die Leistung.
+
+P = W / t = [ Ws / s = W ]
+ODER
+mit W = F * s ergibt sich P = F * s / t = F * v
+
+### Wirkungsgrad
+
+Eine Maschine nimmt immer mehr Leistung auf als sie abgibt.
+(Bsp. Verbrennungsmotor)
+
+
+$ \eta = \frac{P_{ab}}{P_{zu}} $
+
+Je kleiner die Verluste, desto besser ist der Wirkungsgrad.
+
+Gesamtwirkungsgrad: $ \eta_{ges} = \eta_1 \cdot \eta_2 $
+
+Übung: R+P S.112 A2, A6, A9 (uvm. Je nach Zeit)
+
+## Leistungsermittlung
+
+### Ausgabenstellung
+
+Darstellung von Kräften --> als Reel, Podcast
+
+### Bewertungskriterien
+
+## Auswertung und Vertiefung
 
 
 # Ökologische und Ökonomische Aspekte
+
 ## Infos zu dieser Einheit
 
 * **Themen:** Elektroschrott, Arbeitswelt 4.0
 
-* **Stundenplanung:** Wir arbeiten 8 bis 10 Unterrichtseinheiten (UE) an diesem Themenkomplex. Die Leistungsermittlung erfolgt etwa in der sechsten UE. Anschließend werten wir diese aus und vertiefen unser Wissen weiter.
+* **Stundenplanung:** Wir arbeiten acht bis zehn Unterrichtseinheiten (UE) an diesem Themenkomplex. Die Leistungsermittlung erfolgt etwa in der sechsten UE. Anschließend werten wir diese aus und vertiefen unser Wissen weiter.
 
 
 ## Einwegpfand
@@ -56,6 +135,7 @@ UE	Inhalte
 ![Einwegpfand = Müll?](bilder/pfand-muell.png "Bildrechte: CC0 / Pixabay / Hans")
 
 **AUFGABE**
+
 Finden Sie sich in Gruppen aus drei bis vier Personen zusammen. Bearbeiten Sie die folgenden Aufgaben: 
 
 1. Stellen Sie die wichtigsten Unterschiede zwischen Einweg- und Mehrwegpfand gegenüber.
@@ -144,5 +224,6 @@ Diese Videos sind eine Auswahl für weitereführende Informationen zum Thema Ele
 ### Mit E-Schrott zu richtig viel Schmott
 
 **AUFGABE**
+
 Hier sollen die SuS sich zusammenfinden und ihre Leute zur Abgabe von E-Schrott motivieren - irgendwie!
 
