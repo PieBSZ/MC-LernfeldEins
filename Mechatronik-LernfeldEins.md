@@ -141,3 +141,8 @@ Diese Videos sind eine Auswahl für weitereführende Informationen zum Thema Ele
 
 !?[Wie aus unserem Elektroschrott in Ghana neue Rohstoffe werden](https://www.youtube.com/watch?v=a0_kSs104SA)
 
+### Mit E-Schrott zu richtig viel Schmott
+
+**AUFGABE**
+Hier sollen die SuS sich zusammenfinden und ihre Leute zur Abgabe von E-Schrott motivieren - irgendwie!
+
