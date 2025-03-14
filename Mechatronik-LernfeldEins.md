@@ -11,6 +11,15 @@ LIA-Help:
 https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1
 
 
+<!--
+author: Benjamin Pietke
+email: pietke@bszbautzen.de
+comment: Lernfeld 1 - Mechatronik: Dieser Online-Kurs dient zur Unterstützung im Lernfeld-Unterricht am BSZ Bautzen.
+logo: ./bilder/logo-lf1.png
+icon: ./bilder/icon-bsz.png
+classroom: enable
+-->
+
 # Mechatronische Systeme
 Beispiel: Bearbeitungsstation
 - Allgemeines zu Mechatronik
