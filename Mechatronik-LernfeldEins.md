@@ -38,6 +38,41 @@ UE	Inhalte
 5+6	Leistungsermittlung
 7+8	Auswertung LE und Vertiefung/Übung, Auswertung "Sozialnote"
 
+## Allgemeines zu Mechatronik
+
+Sie haben die beste Entscheidung getroffen: Die Ausbildung zum Mechatroniker!
+
+![Will YES!](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBuNXg5aGZzZnB1ODg3bHluYjNuMWhjN3MxMmozaWl4eW54Mmt5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/glvNGHmbZwgrKH4YYA/giphy.gif)
+
+## Gesamt- und Teilsysteme
+
+Bsp. Bearbeitungsstation
+
+## Analyse und Beschreibung
+
+### Darstellung als Blockschaltbild
+
+Blockschaltbilder sind eine wichtige Darstellungsform in der Mechatronik, die es ermöglicht, komplexe Systeme auf eine übersichtliche und verständliche Weise zu visualisieren. Diese Diagramme bestehen aus einfachen geometrischen Formen, die verschiedene Komponenten eines Systems repräsentieren, wie Sensoren, Aktuatoren, Steuerungen und Energiequellen.
+
+Der Hauptzweck von Blockschaltbildern ist es, die Funktionalität und die Wechselwirkungen zwischen den einzelnen Systemteilen klar darzustellen. Sie bieten einen abstrahierten Überblick über das Systemverhalten und vereinfachen die Analyse und das Design von mechatronischen Systemen.
+
+``` ascii
++------------+   +---------+   +-------+
+|            |   |         |   |       |
+| Förderband +-->| Roboter +-->| Fräse |
+|            |   |         |   |       |
++------------+   +---------+   +-------+
+```
+
+Durch den Einsatz von Blockschaltbildern kann man leichter:
+
+- Systemfunktionen identifizieren: Die verschiedenen Teile und ihre Funktionen werden klar erkennbar.
+- Zusammenhänge verstehen: Die Wechselwirkungen zwischen den Komponenten können einfach dargestellt und analysiert werden.
+- Fehlerquellen lokalisieren: Probleme können schneller identifiziert werden, da die Abläufe und Verbindungen visuell nachvollziehbar sind.
+- Kommunikation und Dokumentation: Die Verständlichkeit der Systeme wird erhöht, was die Kommunikation zwischen Ingenieuren und anderen Fachleuten erleichtert.S
+
+### Energie-, Stoff- und Informationsfluss
+
 
 # Technische Berechnungen
 
