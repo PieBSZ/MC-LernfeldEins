@@ -9,7 +9,7 @@ classroom: enable
 
 // Konzeption und generelle Überlegungen
 // Der Kurs wird in drei Blöcke geteilt. **Jeder Block soll individuell verfügbar sein bzw. über einen separaten Link zu Beginn des neuen Blocks.**
-// Die SuS bearbeiten die Aufgaben individuell in Ihrem Tempo.
+// Die SuS bearbeiten die Aufgaben individuell in Ihrem Tempo bzw. in Gruppen.
 // Die "Schnellen" tun sich am Ende einer Einheit zu einer Leistungsermittlung zusammen
 // als Escape-Room gestalten (genially) und erreichtes Level bestimmt Note?
 
@@ -50,11 +50,26 @@ Bsp. Bearbeitungsstation
 
 ## Analyse und Beschreibung
 
+### Hauptfunktionen technischer Systeme
+
+Mechatronische Systeme setzen Energie, Stoff und Informationen um. Dabei steht eine dieser Aufgaben im Vordergrund. Sie ist die Hauptfunktion des Systems. Die Hauptfunktion erfüllt den eigentlichen Zweck eines Systems, für den es entwickelt wurde. Alle anderen Funktionen eines Systems sind Neben- oder Teilfunktionen und sind von der Hauptfunktion abhängig.
+
+Entsprechend der Hauptfunktion werden Maschinen und Geräte unterteilt in:
+
+- Energieumsetzende Systeme, z.B. Elektromotor
+- Stoffumsetzende Systeme, z.B. Pumpe
+- Informationsumsetzende Systeme, z.B. PC
+
+(TABELLE vom Arbeitsblatt! --> Als learningapp umsetzen oder so?)
+
+
 ### Darstellung als Blockschaltbild
 
 Blockschaltbilder sind eine wichtige Darstellungsform in der Mechatronik, die es ermöglicht, komplexe Systeme auf eine übersichtliche und verständliche Weise zu visualisieren. Diese Diagramme bestehen aus einfachen geometrischen Formen, die verschiedene Komponenten eines Systems repräsentieren, wie Sensoren, Aktuatoren, Steuerungen und Energiequellen.
 
 Der Hauptzweck von Blockschaltbildern ist es, die Funktionalität und die Wechselwirkungen zwischen den einzelnen Systemteilen klar darzustellen. Sie bieten einen abstrahierten Überblick über das Systemverhalten und vereinfachen die Analyse und das Design von mechatronischen Systemen.
+
+Beispiel eines Blockschaltbildes für die Bearbeitungsstation:
 
 ``` ascii
 +------------+   +---------+   +-------+
@@ -69,9 +84,29 @@ Durch den Einsatz von Blockschaltbildern kann man leichter:
 - Systemfunktionen identifizieren: Die verschiedenen Teile und ihre Funktionen werden klar erkennbar.
 - Zusammenhänge verstehen: Die Wechselwirkungen zwischen den Komponenten können einfach dargestellt und analysiert werden.
 - Fehlerquellen lokalisieren: Probleme können schneller identifiziert werden, da die Abläufe und Verbindungen visuell nachvollziehbar sind.
-- Kommunikation und Dokumentation: Die Verständlichkeit der Systeme wird erhöht, was die Kommunikation zwischen Ingenieuren und anderen Fachleuten erleichtert.S
+- Kommunikation und Dokumentation: Die Verständlichkeit der Systeme wird erhöht, was die Kommunikation zwischen Ingenieuren und anderen Fachleuten erleichtert.
+
+**AUFGABE**
+
+Erstellen Sie die Blockschaltbilder für *ein* Teilsystem der Bearbeitungsstation.
 
 ### Energie-, Stoff- und Informationsfluss
+
+|                   | Beschreibung | Beispiel           |
+|-------------------|--------------|--------------------|
+| **Energiefluss**      | Zugeführte Energie (z.B. Strom) wird in verschiedene Energieformen umgewandelt (z.B. Wärme, Bewegung) | Bearbeitungsstation! |
+| **Stofffluss**        | Zuführung von Rohteilen für die Produktion von Werkstücken bzw. Stoffen                               | ? |
+| **Informationsfluss** | Verarbeitung von Informationen (z.B. Tasten, Bedienfeld) zur Steuerung und Regelung der Anlage        | ? |
+
+## Anwendung: Pfandflaschenautomat
+
+### Energie-, Stoff- und Informationsfluss
+
+**AUFGABE**
+
+Ergänzen Sie die drei Blockschaltbilder das Pfandflaschenautomats.
+
+(Abbildungen Westermann AH)
 
 
 # Technische Berechnungen
