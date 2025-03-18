@@ -20,23 +20,36 @@ LIA-Help:
 https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1
 
 
-
-
 # Mechatronische Systeme
-Beispiel: Bearbeitungsstation
-- Allgemeines zu Mechatronik
-- Gesamt- und Teilsysteme
-- Analyse und Beschreibung
-- Darstellung als Blockschaltbild
-- Energie-, Stoff- und Informationsfluss
-- Anwendung: Pfandflaschenautomat - Aufgaben zur Bearbeitungsstation parallel anwenden und bewerten (Portfolio?) ACHTUNG! AUFWAND DER KORREKTUR ABSCHÄTZEN!
 
-Stundenplanung
-UE	Inhalte
-1+2	
-3+4	
-5+6	Leistungsermittlung
-7+8	Auswertung LE und Vertiefung/Übung, Auswertung "Sozialnote"
+![Robo Guy](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJiYndtOXN5d3Rpc3Z0dGlqMXJmdmM4bjR0NXNia2RsYTUybm15bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Bht4u8WRFJDi/giphy.gif)
+
+## Einführung
+
+**Herzlich willkommen im Lernfeld 1!** 🚀
+
+Dieser Kurs dient zur Begleitung des Lernfeldunterrichts für **Lernfeld 1 - Analysieren von Funktionszusammenhängen in mechatronischen Systemen**.
+
+Hier werdet ihr zentrale Kompetenzen erwerben, die für die Untersuchung und Analyse technischer Anlagen von entscheidender Bedeutung sind. Ihr lernt nicht nur, relevante Vorschriften und Regelwerke anzuwenden 📜, sondern stellt auch sicher, dass die Anlagen den geltenden Standards entsprechen.
+
+Ein wesentlicher Bestandteil eurer Ausbildung ist das Arbeiten mit technischen Unterlagen. 📚 Ihr werdet die Fähigkeit entwickeln, diese Dokumentationen zu lesen und zu verstehen. Damit seid ihr in der Lage, sie effektiv für die Lösung praktischer Probleme zu nutzen.
+
+Darüber hinaus werdet ihr euch mit der Analyse und Dokumentation von Funktionszusammenhängen beschäftigen. 🔍 Ihr lernt, die Funktionsweise mechatronischer Systeme zu erfassen und mit Hilfe von Blockschaltplänen den Signal-, Stoff- und Energiefluss zu visualisieren. Das wird euer Verständnis für die Systeme erheblich vertiefen.
+
+Ein weiterer wichtiger Aspekt ist die Kommunikation und Teamarbeit. 🤝 Ihr werdet Gespräche über technische Realisierungs­möglichkeiten üben. Dadurch stärkt ihr nicht nur eure Kommunikationskompetenz, sondern auch eure Fähigkeit, in einem Team zu arbeiten – und das auch auf Englisch. 🌍
+
+Nicht zuletzt werdet ihr für die ökologischen und ökonomischen Aspekte mechatronischer Systeme sensibilisiert. 🌱💰 Ihr lernt, nachhaltige Lösungen zu entwickeln und die Auswirkungen eurer Entscheidungen auf die Umwelt und die Wirtschaftlichkeit zu berücksichtigen.
+
+Insgesamt bietet euch Lernfeld 1 eine solide Grundlage für eure spätere Tätigkeit als Mechatroniker. 🔧 Ihr werdet sowohl technische als auch soziale Kompetenzen entwickeln, die in der modernen Arbeitswelt unerlässlich sind. Seid bereit, euch diesen spannenden Herausforderungen zu stellen! 🎉
+
+**Stundenplanung**
+
+| UE | Inhalte |
+|----|---------|
+|1+2 |  |
+|3+4 |  |
+|5+6 | Leistungsermittlung |
+|7+8 | Auswertung LE und Vertiefung/Übung, **Auswertung "Sozialnote"** |
 
 ## Allgemeines zu Mechatronik
 
@@ -98,16 +111,19 @@ Erstellen Sie die Blockschaltbilder für *ein* Teilsystem der Bearbeitungsstatio
 | **Stofffluss**        | Zuführung von Rohteilen für die Produktion von Werkstücken bzw. Stoffen                               | ? |
 | **Informationsfluss** | Verarbeitung von Informationen (z.B. Tasten, Bedienfeld) zur Steuerung und Regelung der Anlage        | ? |
 
-## Anwendung: Pfandflaschenautomat
+## Leistungsermittlung
 
-### Energie-, Stoff- und Informationsfluss
+### Aufgabenstellung
 
-**AUFGABE**
+Pfandflaschenautomat
 
 Ergänzen Sie die drei Blockschaltbilder das Pfandflaschenautomats.
 
 (Abbildungen Westermann AH)
 
+### Bewertungskriterien
+
+## Auswertung und Vertiefung
 
 # Technische Berechnungen
 
@@ -134,9 +150,11 @@ Aufstellflächen und Volumen, Einheitenvorsätze, Formeln, Roboter (Hubarbeit, F
 - F=m∙a=[N=(kg∙m)/s^2 ], Erdbeschleunigung g = 9,81 m/s²
 - 1 N = 100 g = 1 Tafel Schokolade!, 10 N = 1 kg, 1.000 N = 100 kg
 - Kräfte können als Pfeil (Vektor) dargestellt werden
-    + Pfeillänge: Größe der Kraft (!Kräftemaßstab nötig!)
+
+    + Pfeillänge: Größe der Kraft (Kräftemaßstab nötig!)
     + Pfeilspitze: Richtung der Kraft
     + Pfeilrichtung: Wirkungslinie vom Angriffspunkt aus
+
 - Bsp: Zugkraft F = 1200 N wirkt im Winkel von 45° nach links unten
 - ! Kraftpfeile mit derselben Wirkungslinie können addiert werden!
 - Bsp: Waagerechte Zugkraft F1 = 300 N und F2 = 400 N, Druckkraft F3 = 700 N
@@ -191,7 +209,7 @@ Gesamtwirkungsgrad: $ \eta_{ges} = \eta_1 \cdot \eta_2 $
 
 ## Leistungsermittlung
 
-### Ausgabenstellung
+### Aufgabenstellung
 
 Darstellung von Kräften --> als Reel, Podcast
 
@@ -302,9 +320,15 @@ Diese Videos sind eine Auswahl für weitereführende Informationen zum Thema Ele
 
 !?[Wie aus unserem Elektroschrott in Ghana neue Rohstoffe werden](https://www.youtube.com/watch?v=a0_kSs104SA)
 
-### Mit E-Schrott zu richtig viel Schmott
+## Leistungsermittlung
 
-**AUFGABE**
+### Aufgabenstellung
 
 Hier sollen die SuS sich zusammenfinden und ihre Leute zur Abgabe von E-Schrott motivieren - irgendwie!
+
+**Mit E-Schrott zu richtig viel Schmott**
+
+### Bewertungskriterien
+
+## Auswertung und Vertiefung
 
